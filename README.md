@@ -1,5 +1,6 @@
-# wifi_halow
+# wifi Halow Project
 
+## From Silex
 ### What is WiFi Halow
 https://www.silextechnology.com/hubfs/Webinars/Wi-Fi%20HaLow%20Webinar%20-%20Evolving%20the%20Future%20of%20Industrial%20IoT/Wi-Fi_HaLow_Evolving_the_Future_of_Industial_IoT_Webinar_Recording.mp4?submissionGuid=8e36ce06-2bae-4622-91b1-61a107939a52
 
@@ -9,11 +10,10 @@ https://www.silextechnology.com/hubfs/Webinars/Wi-Fi%20HaLow%20Webinar%20Series,
 ### Test on RaspberryPi (Ping test) 
 https://www.youtube.com/watch?v=Bf5jxr2XnPo&ab_channel=SilexTechnologyAmerica%2CInc
 
-
 ## Newracom Git Server
 https://github.com/newracom
 
 
 
-## Others
+## Other
 ![alt text](https://www.seeedstudio.com/blog/wp-content/uploads/2022/09/image-43-1030x276.png)
