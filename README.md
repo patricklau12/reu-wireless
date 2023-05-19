@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=Bf5jxr2XnPo&ab_channel=SilexTechnologyAmerica%2C
 ## Newracom Git Server
 https://github.com/newracom
 
+
+
+## Others
+![alt text](https://www.seeedstudio.com/blog/wp-content/uploads/2022/09/image-43-1030x276.png)
