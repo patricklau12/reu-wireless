@@ -7,8 +7,12 @@ https://www.silextechnology.com/hubfs/Webinars/Wi-Fi%20HaLow%20Webinar%20-%20Evo
 ### EVK detail (from 22:43)
 https://www.silextechnology.com/hubfs/Webinars/Wi-Fi%20HaLow%20Webinar%20Series,%20Part%202/Recording_SilexWi-FiHaLowWebinarSeriesPart%202.mp4?submissionGuid=271e0da9-b8b6-44be-a2b3-1e84774fd9ca
 
-### Test on RaspberryPi (Ping test) 
+### Test on Raspberry Pi 
+#### Ping test
 https://www.youtube.com/watch?v=Bf5jxr2XnPo&ab_channel=SilexTechnologyAmerica%2CInc
+
+#### Speed test
+https://www.youtube.com/watch?v=9yve_8crufQ&ab_channel=SilexTechnologyAmerica%2CInc
 
 ## Newracom Git Server
 https://github.com/newracom
