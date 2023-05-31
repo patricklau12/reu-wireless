@@ -13,19 +13,19 @@ Use Jumper wires to connect the SIM7070 with Jetson Nano, if necessary.
 
 And test the AT commands on Jetson Nano.
 
-# 4. Register NB-IoT SIMs
-If the AT command test is good, we can test the NB-IoT network
-https://marketplace.att.com/app/register-sims
-
-# Study
+# 4. Study
 ## What is MQTT
 Two popular packages. You can also try to find out if there is a better way to do the MQTT, or other protocol 
 ### Mosquitto
 ### Paho MQTT
 
 
+If the AT command test is good, we can test the NB-IoT network
 # (Extra / Prepare for 2nd week) Establish a communication link between Raspberry Pi/Jetson Nano devices over NB-IoT using MQTT.
 Write a script to send data between two Jetson Nano, via NB-IoT network 
+## Preparation
+### Register NB-IoT SIMs
+https://marketplace.att.com/app/register-sims
 
 ## Install MQTT
 You would need to install MQTT on both Raspberry Pi devices. MQTT requires a broker (server) and one or more clients. You can use software like Mosquitto, a popular MQTT broker 
