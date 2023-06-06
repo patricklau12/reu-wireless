@@ -22,7 +22,7 @@ cd R35.3.1
 cd Linux_for_Tegra/
 ```
 
-#### In the Jetson Orin Nano
+#### In the Jetson Orin Nano,
 Prepare for flashing
 i. Remove power
 ii. Put the Nano into Force Recovery Mode (Short pin "FC REC" and "GND" with jumper wire)
@@ -37,7 +37,7 @@ apt-cache depends nvidia-jetpack-runtime
 apt-cache depends nvidia-jetpack-dev
 apt-cache depends nvidia-vpi-dev
 sudo apt update
-sudo apt install nvidia-jetpack
+sudo apt install nvidia-jetpack #may takes ~10mins
 ```
 
 
