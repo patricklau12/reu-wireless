@@ -23,8 +23,7 @@ cd Linux_for_Tegra/
 ```
 
 #### In the Jetson Orin Nano,
-Prepare for flashing
-i. Remove power
+i.Prepare for flashing, ***Remove power***
 ii. Put the Nano into Force Recovery Mode (Short pin "FC REC" and "GND" with jumper wire)
 iii. Connect Nano and host PC with USB-C & USB cable
 iv. Go back to the host computer's terminal, /bootFromExternalStorage
