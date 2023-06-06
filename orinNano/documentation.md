@@ -38,12 +38,14 @@ apt-cache depends nvidia-vpi-dev
 sudo apt update
 sudo apt install nvidia-jetpack #may takes ~10mins
 ```
-## Installing pip
+
+## Other
+### Installing pip
 ```ruby
 sudo apt update
 sudo apt install python3-pip
 ```
-## Installing jtop
+### Installing jtop
 For monitoring and controlling Jetson device
 ```ruby
 sudo pip3 install -U jetson-stats
