@@ -22,13 +22,13 @@ cd R35.3.1
 cd Linux_for_Tegra/
 ```
 
-In the Jetson Orin Nano,
+#### In the Jetson Orin Nano,
 i.Prepare for flashing, ***Remove power***
 ii. Put the Nano into Force Recovery Mode (Short pin "FC REC" and "GND" with jumper wire)
-iii. Connect Nano and host PC with USB-C & USB cable
+iii. Connect Nano and host PC with USB-C & USB cable, and then connect power cable
 iv. Go back to the host computer's terminal, /bootFromExternalStorage
 v. ./flash_jetson_external_storage.sh (takes ~20mins)
-====================================================================================================
+
 ## 3. Installing Jetpack
 ```ruby
 apt-cache depends nvidia-jetpack
