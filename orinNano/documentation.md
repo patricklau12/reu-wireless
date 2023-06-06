@@ -22,7 +22,7 @@ cd R35.3.1
 cd Linux_for_Tegra/
 ```
 
-#### In the Jetson Orin Nano,
+In the Jetson Orin Nano,
 i.Prepare for flashing, ***Remove power***
 ii. Put the Nano into Force Recovery Mode (Short pin "FC REC" and "GND" with jumper wire)
 iii. Connect Nano and host PC with USB-C & USB cable
