@@ -28,3 +28,46 @@ AT+CPIN?
 
 OK
 ```
+```ruby
+AT+CGATT?
+
++CGATT: 1
+
+OK
+```
+```ruby
+AT+COPS?
+
++COPS: 0,0,"0041",9
+
+OK
+```
+```ruby
+AT+CGNAPN
+
++CGNAPN: 1,"m2mnb16.com.attz"
+
+OK
+```
+```ruby
+AT+CNCFG=0,1,”m2mnb16.com.attz”
+
+OK
+```
+```ruby
+AT+CNACT=0,1
+
+OK
+
++APP PDP: 0,ACTIVE
+```
+```ruby
+AT+CNACT?
+
++CNACT: 0,1,"10.94.36.44"
++CNACT: 1,0,"0.0.0.0"
++CNACT: 2,0,"0.0.0.0"
++CNACT: 3,0,"0.0.0.0"
+
+OK
+```
