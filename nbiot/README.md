@@ -14,3 +14,17 @@ https://docs.iotcreators.com/docs/simcom-sim7070g-waveshare-dev-kit
 ### Raspberry Pi Car with Python Tornado Websocket
 https://github.com/wang1051992187/raspberry_pi_car
 
+
+## MQTT Test (on public MQTT server)
+```ruby
+AT
+
+OK
+```
+```ruby
+AT+CPIN?
+
++CPIN: READY
+
+OK
+```
