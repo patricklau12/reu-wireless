@@ -92,7 +92,8 @@ git clone https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_common
 ```ruby
 git clone --recurse-submodules https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox && \
     cd isaac_ros_nvblox && git lfs pull
-```https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox#try-more-examples
+```
+https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox#try-more-examples
 ```
 Launch the Docker container
 ```ruby
